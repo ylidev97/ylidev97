@@ -107,14 +107,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ylidev97&theme=github_dark" alt="GitHub stats" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ylidev97&theme=github_dark" alt="Repos por lenguaje" />
-</div>
-
----
-
 <div align="center">
 
 💬 **¡Construyamos algo increíble juntos!** 🤝
