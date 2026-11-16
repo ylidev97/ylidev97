@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2E24,50:1E7A5A,100:3DDC84&height=200&section=header&text=Yeralys%20Li%20Balmaseda&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Senior%20Android%20Engineer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Compose%20%E2%80%A2%20KMP%20%E2%80%A2%20Flutter&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2E24,50:1E7A5A,100:3DDC84&height=200&section=header&text=Yeralys%20Li%20Balmaseda&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Senior%20Android%20Engineer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Compose%20%E2%80%A2%20KMP%20%E2%80%A2%20Flutter%20%E2%80%A2%20React&descAlignY=58&descSize=18" width="100%"/>
 
 <div align="center">
 
